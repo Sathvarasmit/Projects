@@ -1,3 +1,3 @@
 # Projects
-First repo
-Author - Sathvara smit
+First repo<br>
+Author - Sathvara smit (Swaminarayan University)
